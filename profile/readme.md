@@ -1,1 +1,1 @@
-This is ZerosLab! It's mainly a way to facilitiate collaboration on @Willow-Zero's code. It is, technichally, a collaboration between myself and my friend Nyx, though they rarely actually code anything and I mostly just make little things for them when they ask.
+This is ZerosLab! It's mainly a way to separate formal projects from personal tinkering
